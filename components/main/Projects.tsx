@@ -10,7 +10,7 @@ const Projects = () => {
 
   const allProjects = [
     {
-      src: "/Myw1.png",
+      src: "/Myw11.png",
       title: "Modern Next.js BootCamp Website",
       description: "A comprehensive learning platform built with Next.js 13, featuring interactive course modules, real-time progress tracking, and a modern UI/UX design. Includes authentication, course management, and student dashboard.",
       link: "https://www.minhajaiacademy.com/"
@@ -25,7 +25,7 @@ const Projects = () => {
       src: "/my4.png",
       title: "Space Themed Website",
       description: "An immersive space-themed portfolio showcasing cosmic animations, parallax effects, and interactive elements. Built with modern web technologies, featuring smooth transitions and responsive design for an engaging user experience.",
-      link: "https://space-portfolio.vercel.app"
+      link: "/"
     },
     {
       src: "/my3.svg",

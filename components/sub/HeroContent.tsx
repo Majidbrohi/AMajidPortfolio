@@ -63,7 +63,7 @@ const HeroContent = () => {
        
 
         {/* Contact Button */}
-        <div className="w-full flex justify-center mt-4">
+        <div className="w-full flex justify-center md:justify-start mt-4">
           <motion.button
             variants={slideInFromLeft(1)}
             onClick={scrollToContact}
