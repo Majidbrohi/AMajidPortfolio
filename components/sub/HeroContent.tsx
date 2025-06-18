@@ -12,11 +12,11 @@ import Image from "next/image";
 
 const HeroContent = () => {
   const scrollToContact = () => {
-    const contactSection = document.getElementById('contactme');
+    const contactSection = document.getElementById("contactme");
     if (contactSection) {
       window.scrollTo({
         top: contactSection.offsetTop,
-        behavior: 'smooth'
+        behavior: "smooth"
       });
     }
   };
@@ -68,9 +68,9 @@ const HeroContent = () => {
             variants={slideInFromLeft(1)}
             onClick={scrollToContact}
             className="py-2 px-4 button-primary text-center text-white cursor-pointer rounded-lg max-w-[180px] sm:max-w-[300px] hover:opacity-90 transition-all duration-300 relative z-50"
-            style={{ position: 'relative', zIndex: 50 }}
+            style={{ position: "relative", zIndex: 50 }}
           >
-            Let's Have a Conversation!
+            Let&apos;s Have a Conversation!
           </motion.button>
         </div>
       </div>

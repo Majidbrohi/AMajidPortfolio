@@ -71,7 +71,7 @@ const ContactMe = () => {
           variants={slideInFromLeft(0.5)}
           className="text-lg text-gray-400 text-center mb-4 max-w-[600px]"
         >
-          Reach out, and let's create a universe of possibilities together!
+          Reach out, and let s create a universe of possibilities together!
         </motion.p>
 
         {/* Form and Image Container */}
@@ -82,8 +82,8 @@ const ContactMe = () => {
               onSubmit={handleSubmit}
               className="relative flex flex-col gap-5 w-full bg-[#1a1a2e] p-8 rounded-lg shadow-xl h-full"
             >
-              <h3 className="text-2xl font-semibold mb-4">Let's connect constellations</h3>
-              <p className="text-gray-400 mb-6">Let's align our constellations! Reach out and let the magic of collaboration illuminate our skies.</p>
+              <h3 className="text-2xl font-semibold mb-4">Lets connect constellations</h3>
+              <p className="text-gray-400 mb-6">Let s align our constellations! Reach out and let the magic of collaboration illuminate our skies.</p>
               
               {/* Name Input */}
               <div className="flex gap-4">
