@@ -66,12 +66,7 @@ const Footer: React.FC = () => {
               >
                 <span className="text-[15px]">My Sponsor</span>
               </Link>
-              <Link
-                href="/about-me"
-                className="flex flex-row items-center cursor-pointer"
-              >
-                <span className="text-[15px]">About Me</span>
-              </Link>
+              
               <span className="text-[14px] text-gray-400 w-full text-center">Inventura Studio</span>
               <span className="flex flex-row items-center justify-center cursor-pointer w-full text-center">
                 <span className="text-[15px] text-center">brohimajid373@gmail.com</span>

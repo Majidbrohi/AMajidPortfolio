@@ -14,7 +14,7 @@ const Navbar: React.FC = () => {
         {/* Logo */}
         <a href="#about-me" className="flex items-center">
           <Image
-            src="/NavbarLogo.png"
+            src="/Navbarlogo.png"
             alt="logo"
             width={90}
             height={25}

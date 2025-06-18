@@ -10,7 +10,7 @@ const Projects = () => {
 
   const allProjects = [
     {
-      src: "/Myw11.png",
+      src: "/myw11.png",
       title: "Modern Next.js BootCamp Website",
       description: "A comprehensive learning platform built with Next.js 13, featuring interactive course modules, real-time progress tracking, and a modern UI/UX design. Includes authentication, course management, and student dashboard.",
       link: "https://www.minhajaiacademy.com/"
