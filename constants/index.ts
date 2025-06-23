@@ -105,12 +105,6 @@ export const Skill_data = [
       height: 80,
     },
     {
-      skill_name: "Material UI",
-      Image: "/mui.png",
-      width: 80,
-      height: 80,
-    },
-    {
       skill_name: "React",
       Image: "/react.png",
       width: 80,
